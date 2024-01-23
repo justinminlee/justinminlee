@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/-React-222222?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
+  <img src="https://img.shields.io/badge/-EJS-B4CA65?style=flat&logo=EJS&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
 </div>
 <div align='center'> 
