@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Minjae%20Lee&fontSize=90)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjotadoyy&label=Profile%20views&color=0e75b6&style=flat" alt="justinminlee" /> </p>
+
 <p align='center'> Welcome to my page!👋🏼 </p>
 <br />
 <br />
