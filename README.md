@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjotadoyy&label=Profile%20views&color=0e75b6&style=flat" alt="justinminlee" /> </p>
 
-<p align='center'> Welcome to my page!👋🏼 </p>
+<p align='center'> Final year student studying data science!👋🏼 </p>
 <br />
 <br />
 <h3 align="center">📓 Dev Stack 📓</h3>
