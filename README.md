@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjotadoyy&label=Profile%20views&color=0e75b6&style=flat" alt="justinminlee" /> </p>
 
@@ -30,3 +30,5 @@
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
 </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinminlee&theme=nord_bright)
