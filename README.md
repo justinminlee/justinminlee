@@ -4,6 +4,8 @@
 
 <p align='center'> Final year student studying data science!👋🏼 </p>
 <br />
+<p align='center'> https://justinminlee.github.io/ </p>
+<br />
 <br />
 <h3 align="center">📓 Dev Stack 📓</h3>
 
