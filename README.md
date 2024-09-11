@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4779A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white" />  
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RStuio-75AADB?style=flat-square&logo=RStudio&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white" />  
 </div>
 <div align='center'> 
 <h3 align="center">📓 Cowork Tools 📓</h3>  
